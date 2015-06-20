@@ -4,6 +4,9 @@
 	<!--this is the file-->
 	<!--Dwarakanath c likes dkmda--> 
 
+	ramana
+	siva
+
   <!-- Project-specific configuration -->
   <loadproperties srcfile="project.properties"/>
   <property name="main.class" value="${package.main}.${ant.project.name}"/>

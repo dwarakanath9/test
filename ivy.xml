@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
   <info organisation="com.nullprogram" module="sample-java-project"/>
+
+
+<?xml version="1.0"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+  <info organisation="com.nullprogram" module="sample-java-project"/>
   <configurations>
     <conf name="default"/>
     <conf name="build" extends="default" visibility="private"/>

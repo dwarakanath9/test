@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <project name="SampleLwjglProject" default="jar"
          xmlns:ivy="antlib:org.apache.ivy.ant">
+	<!--this is the file-->
 
   <!-- Project-specific configuration -->
   <loadproperties srcfile="project.properties"/>

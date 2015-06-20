@@ -9,6 +9,17 @@ Building this project requires that Ivy be available to Ant. All you
 need is ivy.jar in Ant's classpath (in your $CLASSPATH, $ANT_HOME/lib,
 or ~/.ant/lib).
 
+This is a reference for setting up a new Ant-based Java project. It
+contains most of the little Ant tricks I've learned over the
+years. When I start a new Java project I clone this repository, remove
+sections of build.xml that I don't care about for that particular
+project, set the project properties, clear out the sample sources, and
+get to work.
+
+Building this project requires that Ivy be available to Ant. All you
+need is ivy.jar in Ant's classpath (in your $CLASSPATH, $ANT_HOME/lib,
+or ~/.ant/lib).
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444
 You will need to have Astyle installed and in your path for the
 "format" target to work. If it's missing, that's fine. It won't affect
 any other targets.

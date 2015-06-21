@@ -4,8 +4,7 @@
 	<!--this is the file-->
 	<!--Dwarakanath c likes dkmda--> 
 
-	ramana
-	siva
+	<!--- this is the comment of the file-->
 
   <!-- Project-specific configuration -->
   <loadproperties srcfile="project.properties"/>

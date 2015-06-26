@@ -189,5 +189,6 @@
     </apply>
     <!-- Pack it all up -->
     <jar destfile="${dist.dir}/bundle.jar" basedir="${dist.dir}/bundle"/>
+	<jar destination="{dist.dir}/bundle.jar" basedir="${dist.dir}/bundle"/>
   </target>
 </project>
